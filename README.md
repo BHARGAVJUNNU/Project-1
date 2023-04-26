@@ -9,5 +9,4 @@ Here are the few screenshots from the application:
 
 
 Youtube Video Link: https://youtu.be/hLoRxqVX4zs
-
 Github Repo Link: https://github.com/BHARGAVJUNNU/Project-1.git
